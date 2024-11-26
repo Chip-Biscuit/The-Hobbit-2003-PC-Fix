@@ -13,12 +13,6 @@ FPS can be toggled in the game, a message box will pop up before the game opens 
 game
 This will mean that you can use the key you select to toggle between 30 and 60 FPS in game at any time.
 
-if you would like to leave feedback or submit a bug please use the form provided:
-
-https://docs.google.com/forms/d/e/1FAIpQLSe6v8HZfqQb11B6u9mvamDiUHHUG4jsY1Ym_AH1MWh7KdhiTQ/viewform?usp=sharing
-
-credit to Elisha Riedlinger for the base wrapper and 13 AG.
-
 brought to you by Fix Enhancers 
 
 Team: 
