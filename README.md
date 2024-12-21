@@ -15,7 +15,7 @@ This will mean that you can use the key you select to toggle between 30 and 60 F
 
 If you have any issues please go to discord for help 
 
-https://discord.gg/pZwkHrTF8X
+https://discord.gg/eVJ7sQH7Cc
 
 credit to Elisha Riedlinger for the base wrapper and 13 AG.
 
