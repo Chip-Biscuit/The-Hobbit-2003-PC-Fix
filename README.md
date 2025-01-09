@@ -1,4 +1,4 @@
-# The-Hobbit-PC-Fix
+# The-Hobbit-(2003)-PC-Fix
 This is The Hobbit PC FPS and FOV fix dll wrapper
 
 simply go to release, download the zip extract it and then put the d3d8.dll and d3d8.ini into your game folder next to the game exe and your good to go 
