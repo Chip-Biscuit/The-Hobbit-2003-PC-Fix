@@ -13,6 +13,10 @@ FPS can be toggled in the game, a message box will pop up before the game opens 
 game
 This will mean that you can use the key you select to toggle between 30 and 60 FPS in game at any time.
 
+TheHobbitfix-nomessagebox.zip has no message box when you launch the game to choose a key for the fps toggle, this means that the fps toggle will always be on keyboard key "O" in this specific release
+
+if the fps doesnt toggle on the first press press your hotkey again and itll work after.
+
 If you have any issues please go to discord for help 
 
 https://discord.gg/eVJ7sQH7Cc
