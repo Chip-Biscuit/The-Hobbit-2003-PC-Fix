@@ -11,15 +11,18 @@ It is advised that the resolution is changed within the pause menu options. This
 # FOV
 FOV is off by default in the ini which is set to (0). The ini has 3 options to choose from in this fix, slightly zoomed out, a bit more zoomed out and mega zoomed out (1),(2) or (3).
 PCGamingWiki PCGW Community
-The Hobbit Patches
+
+# The Hobbit Patches
 All patches for The Hobbit (2003). hobbit13en (1.3) hobbit12en (1.2) English v 1.3 hobbit13fr (French) hobbit13ge (German) hobbit13sp (Spanish) hobbit13it (Italian) Taken from: https://gamefront.online/files/listing/pub2/The_Hobbit/Official_Patches/
 The Hobbit Patches
 
 # FPS
 This game uses an FPS toggle feature. This is required to be able to play the game properly and allow the player to complete certain parts of the game that break on any FPS higher than 30fps. There are 2 versions of the fix for FPS one which allows the user to use a button of their choice for the toggle feature. The other version sets the key ‘O’ to the toggle key by default. These are explained below.
-The Hobbit Fix
+
+# The Hobbit Fix
 The FPS can be toggled with any key in the game. There will be a message box that will pop up before the game launches which will give you instructions on what you must do. Click OK on the first pop up message box, then click any button on your keyboard or mouse and it will then confirm the button choice and launch the game. Then in the game you can use the key you have selected to toggle between 30 and 60 FPS within the game at any time.
-The Hobbit Fix-NoMessageBox
+
+# The Hobbit Fix-NoMessageBox
 This version has no message box asking you to choose a key before launching the game. The FPS toggle key will always be "O" on the keyboard.
 
 # Issues/Problems
