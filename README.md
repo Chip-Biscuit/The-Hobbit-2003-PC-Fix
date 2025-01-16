@@ -1,5 +1,6 @@
 # The-Hobbit-(2003)-PC-Fix
-Requirements before using fix
+
+# Requirements before using fix
 For the fixes to work properly you must have patched the game up to 1.3 release. If you have not done so already then you can download the patch from here https://community.pcgamingwiki.com/files/file/1074-the-hobbit-patches/ 
 
 # Instructions
