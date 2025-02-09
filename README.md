@@ -22,6 +22,9 @@ The FPS can be toggled with any key in the game. There will be a message box tha
 # The Hobbit Fix-NoMessageBox
 This version has no message box asking you to choose a key before launching the game. The FPS toggle key will always be "O" on the keyboard.
 
+# Vote to see the game return via GOG Dreamlist
+If you are interested in potentially seeing this game easily available to purchase and use today then go and vote on the games GOG Dreamlist to help make this become a reality, you can vote for the game here and write a message about the game if you wish – https://www.gog.com/dreamlist/game/the-hobbit-2003
+
 # Issues/Problems
 If you have any issues, with the fixes then please go to discord for help linked below.
 https://discord.gg/eVJ7sQH7Cc
