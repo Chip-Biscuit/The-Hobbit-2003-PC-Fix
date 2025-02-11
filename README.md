@@ -14,7 +14,8 @@ FOV is off by default in the ini which is set to (0). The ini has 3 options to c
 PCGamingWiki PCGW Community
 
 # FPS
-This game uses an FPS toggle feature. This is required to be able to play the game properly and allow the player to complete certain parts of the game that break on any FPS higher than 30fps. There are 2 versions of the fix for FPS one which allows the user to use a button of their choice for the toggle feature. The other version sets the key ‘O’ to the toggle key by default. These are explained below.
+FPS can be toggled in the game, you can set whichever hotkey you wish in d3d8.ini use [hotkey]keycodes.txt to see which hex code belongs to the key you want to use and copy paste it to the d3d8.ini hotkey setting.
+This will mean that you can use the key you select to toggle between 30 and 60 FPS in game at any time. default is 0x55 which is the "U" key on the keyboard.
 
 # The Hobbit Fix
 The FPS can be toggled with any key in the game. There will be a message box that will pop up before the game launches which will give you instructions on what you must do. Click OK on the first pop up message box, then click any button on your keyboard or mouse and it will then confirm the button choice and launch the game. Then in the game you can use the key you have selected to toggle between 30 and 60 FPS within the game at any time.
