@@ -8,6 +8,8 @@ For the fixes to work properly you must have patched the game up to 1.3 release.
 # Instructions
 Go to release, download the zip file and extract it, then put the d3d8.dll and d3d8.ini into your game folder next to the Meridian.exe file and you are good to go! You can edit the settings you wish to use in the d3d8.ini file.
 
+Watch the official fix guide video here on how to install the game and use the fix - https://m.youtube.com/watch?v=G4ZwB4qo2hI
+
 # Resolution
 It is advised that the resolution is changed within the pause menu options. This is due to a bug that can occur on the main menu which prevents the user from being able to change their resolution properly.
 
