@@ -10,7 +10,9 @@ Go to release, download the zip file and extract it, then put the d3d8.dll and d
 
 Watch the official fix guide video here on how to install the game and use the fix
 
-[![The Hobbit 2003](https://github.com/user-attachments/assets/51d4effb-cba2-417c-b6a4-de7141d8d633)](https://m.youtube.com/watch?v=G4ZwB4qo2hI)
+<a href="https://m.youtube.com/watch?v=G4ZwB4qo2hI">
+  <img src="https://github.com/user-attachments/assets/51d4effb-cba2-417c-b6a4-de7141d8d633" alt="The Hobbit 2003" width="480" height="360">
+</a>
 
 
 # Resolution
