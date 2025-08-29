@@ -8,6 +8,8 @@ For the fixes to work properly you must have patched the game up to 1.3 release.
 # Instructions
 Go to release, download the zip file and extract it, then put the d3d8.dll and d3d8.ini into your game folder next to the Meridian.exe file and you are good to go! You can edit the settings you wish to use in the d3d8.ini file.
 
+# Official video guide
+
 Watch the official fix guide video here on how to install the game and use the fix
 
 <a href="https://m.youtube.com/watch?v=G4ZwB4qo2hI">
