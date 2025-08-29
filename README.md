@@ -14,7 +14,7 @@ Watch the official fix guide video here on how to install the game and use the f
   <img src="https://github.com/user-attachments/assets/51d4effb-cba2-417c-b6a4-de7141d8d633" alt="The Hobbit 2003" width="480" height="360">
 </a><br><br>
 
-<i>Click the image above to watch the video</i>
+###### <i>Click the image above to watch the video</i>
 
 
 # Resolution
