@@ -9,7 +9,7 @@ For the fixes to work properly you must have patched the game up to 1.3 release.
 Go to release, download the zip file and extract it, then put the d3d8.dll and d3d8.ini into your game folder next to the Meridian.exe file and you are good to go! You can edit the settings you wish to use in the d3d8.ini file.
 
 Watch the official fix guide video here on how to install the game and use the fix
-\n https://m.youtube.com/watch?v=G4ZwB4qo2hI
+-- https://m.youtube.com/watch?v=G4ZwB4qo2hI
 
 <img width="320" height="240" alt="The_Hobbit_2003" src="https://github.com/user-attachments/assets/51d4effb-cba2-417c-b6a4-de7141d8d633" />
 
