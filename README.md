@@ -36,6 +36,17 @@ The FPS can be toggled with any key in the game. There will be a message box tha
 # The Hobbit Fix-NoMessageBox
 This version has no message box asking you to choose a key before launching the game. The FPS toggle key will always be "O" on the keyboard.
 
+# TheHobbitfixwith-MouseLookON.zip
+
+This version is so that you can use the mouse to not only pan the camera left and right but also pan the camera up and down at all times during gameplay, its the same as the other zip but I have just made it so the mouse pans the camera in all directions using the games 
+MouseLook feature. 
+ 
+***IMPORTANT*** make sure to go into the main menu -> options -> controls -> keyboard -> next -> next -> MouseLook -> Remap this key specifically to the NUMPAD - (minus) on your keyboard by clicking the key its set to -> then clicking numpad minus (-) then done. that's all now play the game with full camera pan in all directions on the mouse.
+
+a visual aid: 
+
+<img width="308" height="230" alt="mouselook" src="https://github.com/user-attachments/assets/912ca5ac-9ad1-444f-929a-7e2806ea0876" />
+
 # Vote to see the game return via GOG Dreamlist
 If you are interested in potentially seeing this game easily available to purchase and use today then go and vote on the games GOG Dreamlist to help make this become a reality, you can vote for the game here and write a message about the game if you wish – https://www.gog.com/dreamlist/game/the-hobbit-2003
 
