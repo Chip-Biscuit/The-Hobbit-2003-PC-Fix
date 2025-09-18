@@ -44,9 +44,9 @@ a visual aid:
 
 <img width="308" height="230" alt="mouselook" src="https://github.com/user-attachments/assets/912ca5ac-9ad1-444f-929a-7e2806ea0876" />
 
-***It is possible for you to set your own key for this inside of d3d8.ini under***
-
 just incase you dont have acess to the (subtract) - key on your keyboard then follow the instructions below: 
+
+***It is possible for you to set your own key for this inside of d3d8.ini under***
 
 [INPUT]
 AlwaysHoldVK=0x6D  -> default is numpad - (subtract)
