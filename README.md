@@ -33,9 +33,6 @@ This will mean that you can use the key you select to toggle between 30 and 60 F
 # The Hobbit Fix
 The FPS can be toggled with any key in the game. There will be a message box that will pop up before the game launches which will give you instructions on what you must do. Click OK on the first pop up message box, then click any button on your keyboard or mouse and it will then confirm the button choice and launch the game. Then in the game you can use the key you have selected to toggle between 30 and 60 FPS within the game at any time.
 
-# The Hobbit Fix-NoMessageBox
-This version has no message box asking you to choose a key before launching the game. The FPS toggle key will always be "O" on the keyboard.
-
 # TheHobbitfixwith-MouseLookON.zip
 
 This version is so that you can use the mouse to not only pan the camera left and right but also pan the camera up and down at all times during gameplay, its the same as the other zip but I have just made it so the mouse pans the camera in all directions using the games 
