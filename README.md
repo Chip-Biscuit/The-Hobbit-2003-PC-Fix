@@ -46,6 +46,8 @@ a visual aid:
 
 ***It is possible for you to set your own key for this inside of d3d8.ini under***
 
+just incase you dont have acess to the (subtract) - key on your keyboard then follow the instructions below: 
+
 [INPUT]
 AlwaysHoldVK=0x6D  -> default is numpad - (subtract)
 
