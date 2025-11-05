@@ -1,5 +1,13 @@
 # The-Hobbit-(2003)-PC-Fix
 
+<div align="center">
+
+# 🎮 Game Specific Patches  
+### Created & Maintained by **[Chip-Biscuit](https://chip-biscuit.github.io/)**
+Reverse Engineering • Programming • Patching • Game Improvements  
+
+</div>
+
 ![hobbit](https://github.com/user-attachments/assets/4954b987-8698-4f82-b3e0-fa47d0170cee)
 
 # Requirements before using fix
