@@ -72,6 +72,8 @@ you can use the included file called [hotkey]keycodes.txt to change the key, if 
 # TheHobbitfixDLLonly.zip
 This version uses 13ags ultimate ASI loader to inject a DLL only version of the fix into the game 
 
+Works alongside ReShade, RTX Remix, and other mods using d3d8.dll.
+
 simply put the d3d8.dll and update folder into your game folder next to the game exe and your good to go. 
 
 If you want to just use the DLL only then take Chip.asi and chip.ini rename Chip.asi to Chip.dll and you can inject it yourself.
