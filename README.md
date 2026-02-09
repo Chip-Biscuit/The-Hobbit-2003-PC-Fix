@@ -104,7 +104,7 @@ If you have any issues, with the fixes then please go to discord for help linked
 https://discord.gg/eVJ7sQH7Cc
 
 # Credits
-Credit to Elisha Riedlinger for the base wrapper and ThirteenAG.
+Credit to Elisha Riedlinger for the base wrapper and ThirteenAG ultimate asiloader.
 
 ---
 
