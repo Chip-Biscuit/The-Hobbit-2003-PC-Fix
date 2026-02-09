@@ -69,6 +69,32 @@ AlwaysHoldVK=0x6D  -> default is numpad - (subtract)
 
 you can use the included file called [hotkey]keycodes.txt to change the key, if you change the key in the INI make sure you also go into the main menu -> options -> controls -> keyboard -> next -> next -> MouseLook -> Remap this key specifically to the key you have now set inside of d3d8.ini otherwise this feature will not work 
 
+# TheHobbitfixDLLonly.zip
+This version uses 13ags ultimate ASI loader to inject a DLL only version of the fix into the game 
+
+simply put the d3d8.dll and update folder into your game folder next to the game exe and your good to go. 
+
+If you want to just use the DLL only then take Chip.asi and chip.ini rename Chip.asi to Chip.dll and you can inject it yourself.
+
+FOV mod is off by default (0) in the ini you have 3 options to choose from in this fix, slightly zoomed out, a bit more zoomed out and mega zoomed out (1),(2) or (3) 
+
+you can edit settings in chip.ini 
+
+Resolution can be changed in Game Video options.   
+
+This version is so that you can use the mouse to not only pan the camera left and right but also pan the camera up and down at all times during gameplay, its the same as the other zip but I have just made it so the mouse pans the camera in all directions using the games
+MouseLook feature.
+
+you can turn this off in chip.ini AlwaysHoldEnable = 1 (1 on) (0 off) 1 on by default
+
+IMPORTANT make sure to go into the main menu -> options -> controls -> keyboard -> next -> next -> MouseLook -> Remap this key specifically to the NUMPAD - (minus) on your keyboard by clicking the key its set to -> then clicking numpad minus (-) then done. that's all now play the game with full camera pan in all directions on the mouse.
+
+FPS can be toggled in the game, you can set whichever hotkey you wish in chip.ini use [hotkey]keycodes.txt to see which hex code belongs to the key you want to use and copy paste it to the chip.ini hotkey setting.
+This will mean that you can use the key you select to toggle between 30 and 60 FPS in game at any time. default is 0x55 which is the "U" key on the keyboard.
+
+The game will start with 60fps you can toggle to 30 any time you need to when bugs occur and back to 60 with the hotkey.
+
+chip.ini is located in the update folder.
 
 # Vote to see the game return via GOG Dreamlist
 If you are interested in potentially seeing this game easily available to purchase and use today then go and vote on the games GOG Dreamlist to help make this become a reality, you can vote for the game here and write a message about the game if you wish – https://www.gog.com/dreamlist/game/the-hobbit-2003
