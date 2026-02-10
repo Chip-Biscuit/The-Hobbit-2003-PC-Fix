@@ -22,7 +22,7 @@ Reverse Engineering • Programming • Patching • Game Improvements • DLL C
 For the fixes to work properly you must have patched the game up to 1.3 release. If you have not done so already then you can download the patch from here https://community.pcgamingwiki.com/files/file/1074-the-hobbit-patches/ 
 
 # Instructions
-Go to release, download the zip file and extract it, then put the d3d8.dll and d3d8.ini into your game folder next to the Meridian.exe file and you are good to go! You can edit the settings you wish to use in the d3d8.ini file.
+Go to [release](https://github.com/Chip-Biscuit/The-Hobbit-2003-PC-Fix/releases/tag/hobbit), download the zip file and extract it, then put the d3d8.dll and d3d8.ini into your game folder next to the Meridian.exe file and you are good to go! You can edit the settings you wish to use in the d3d8.ini file.
 
 # Official video guide
 
